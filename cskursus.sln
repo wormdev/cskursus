@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugDemo", "DebugDemo\DebugDemo.csproj", "{11235045-A90B-42B2-8DF2-E0344305DD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler_Demo", "Variabler_Demo\Variabler_Demo.csproj", "{3D2845CE-CC7F-48C6-A6A5-A227065CC3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul4_Opgave_1_Variabler_Tal", "Modul4_Opgave_1_Variabler_Tal\Modul4_Opgave_1_Variabler_Tal.csproj", "{843AD4CD-115D-49E7-8006-E529D437DAA1}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11235045-A90B-42B2-8DF2-E0344305DD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11235045-A90B-42B2-8DF2-E0344305DD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11235045-A90B-42B2-8DF2-E0344305DD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11235045-A90B-42B2-8DF2-E0344305DD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2845CE-CC7F-48C6-A6A5-A227065CC3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2845CE-CC7F-48C6-A6A5-A227065CC3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2845CE-CC7F-48C6-A6A5-A227065CC3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2845CE-CC7F-48C6-A6A5-A227065CC3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843AD4CD-115D-49E7-8006-E529D437DAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843AD4CD-115D-49E7-8006-E529D437DAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843AD4CD-115D-49E7-8006-E529D437DAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843AD4CD-115D-49E7-8006-E529D437DAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
